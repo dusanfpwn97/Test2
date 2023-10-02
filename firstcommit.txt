@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 change Serge
+=======
+change Dusan
+>>>>>>> 574ab5a8d69d5e54cdfafa085d02f9036c31b710
